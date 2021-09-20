@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-App-In-Class-Exercise/static/css/main.a617e044.chunk.css",
+    "main.js": "/React-App-In-Class-Exercise/static/js/main.0c0e950e.chunk.js",
+    "main.js.map": "/React-App-In-Class-Exercise/static/js/main.0c0e950e.chunk.js.map",
+    "runtime-main.js": "/React-App-In-Class-Exercise/static/js/runtime-main.d174c4c3.js",
+    "runtime-main.js.map": "/React-App-In-Class-Exercise/static/js/runtime-main.d174c4c3.js.map",
+    "static/js/2.ea804895.chunk.js": "/React-App-In-Class-Exercise/static/js/2.ea804895.chunk.js",
+    "static/js/2.ea804895.chunk.js.map": "/React-App-In-Class-Exercise/static/js/2.ea804895.chunk.js.map",
+    "static/js/3.62727675.chunk.js": "/React-App-In-Class-Exercise/static/js/3.62727675.chunk.js",
+    "static/js/3.62727675.chunk.js.map": "/React-App-In-Class-Exercise/static/js/3.62727675.chunk.js.map",
+    "index.html": "/React-App-In-Class-Exercise/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/React-App-In-Class-Exercise/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ea804895.chunk.js.LICENSE.txt": "/React-App-In-Class-Exercise/static/js/2.ea804895.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-App-In-Class-Exercise/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d174c4c3.js",
+    "static/js/2.ea804895.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0c0e950e.chunk.js"
+  ]
+}
